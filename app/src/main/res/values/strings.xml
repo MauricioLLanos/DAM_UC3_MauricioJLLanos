@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">DAM_UC3_MauricioJLLanosR</string>
+    <string name="textCorreo">Correo electronico</string>
+    <string name="textContraseña">Contraseña</string>
+    <string name="checkBoxNCerrarS">No Cerrar Sesion</string>
+    <string name="textPregunta">¿Haz olvidado tu contraseña?</string>
+    <string name="ButtonEntrar">Entrar</string>
+    <string name="textRegistrate">Regístrate</string>
+    <string name="textEsGratis">Es gratis (y lo seguirá siendo).</string>
+    <string name="textNombre">Nombre:</string>
+    <string name="textApellido">Apellido:</string>
+    <string name="textDireccionCorreo">Tu dirección de correo electrónico:</string>
+    <string name="textContraseñaNueva">Contraseña Nueva:</string>
+    <string name="textSexo">Sexo:</string>
+    <string name="textFechaNacimiento">Fecha de nacimiento</string>
+    <string name="radioButtonHombre">Hombre</string>
+    <string name="radioButtonMujer">Mujer</string>
+    <string name="textPreguntaInfor">¿Por qué tengo que dar esta información?</string>
+    <string name="buttonRegistrate">Resgístrate</string>
+    <string name="textSegundoMen">para un famoso, grupo de música o empresa</string>
+    <string name="textPrimerMen">Crear una página</string>
+</resources>
